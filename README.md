@@ -1,0 +1,1 @@
+Hi my name is Nandini and I have pivoted from a business background to data science and cybersecurity. I am keenly interested in applying ML practices to threat intelligence and increase the overall efficiency of an organisation
